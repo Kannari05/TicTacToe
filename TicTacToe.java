@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -62,7 +62,7 @@
 
     <h2>Java Source Code</h2>
     <p>Copy this code into a file named <strong>TicTacToe.java</strong>.</p>
-    <pre><code>
+    <pre><code> -->
 import java.util.Scanner;
 
 public class TicTacToe {
@@ -143,7 +143,7 @@ public class TicTacToe {
         return false;
     }
 }
-    </code></pre>
+    <!-- </code></pre>
 
     <h2>How to Run the Game</h2>
     <ol>
@@ -156,4 +156,4 @@ public class TicTacToe {
     </ol>
   </div>
 </body>
-</html>
+</html> -->
